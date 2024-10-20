@@ -29,5 +29,5 @@ The Electric Vehicle (EV) Data Analysis Dashboard is a Power BI project designed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ev-data-dashboard.git
+   https://github.com/nikhil03-2003/Electric_Vehicle_Analysis
 
