@@ -1,5 +1,33 @@
- In this project, I conducted a comprehensive analysis of electric vehicles (EVs) to understand trends, per
-formance metrics, and consumer preferences in the EV market. The analysis aimed to provide insights that
- could inform stakeholders and guide strategic decisions.
- 
- ◦ Tools Used: MySql, Excel, Power BI
+# Electric Vehicle Data Analysis Dashboard
+
+## Overview
+
+The Electric Vehicle (EV) Data Analysis Dashboard is a Power BI project designed to provide comprehensive insights into electric vehicle usage, performance, and market trends. This interactive dashboard allows stakeholders to visualize key metrics, facilitating data-driven decisions in the EV sector.
+
+## Features
+
+- **Usage Statistics**: Analyze the number of electric vehicles sold, registered, and on the road over time.
+- **Performance Metrics**: Visualize key performance indicators such as range, charging time, and energy efficiency.
+- **Market Trends**: Explore trends in electric vehicle adoption across different regions and demographics.
+- **Environmental Impact**: Assess the reduction in carbon emissions attributable to EV adoption.
+
+## Technologies Used
+
+- **Power BI**: For creating interactive visualizations and dashboards.
+- **SQL**: To extract and manipulate EV data from databases.
+- **Excel**: For data cleaning and preliminary analysis (if applicable).
+- **Python/R**: (Optional) For advanced data analytics and preprocessing.
+
+## Installation
+
+### Prerequisites
+
+- Power BI Desktop installed on your machine.
+- Access to EV data (CSV, Excel, or SQL database).
+
+### Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ev-data-dashboard.git
+
